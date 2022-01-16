@@ -26,8 +26,20 @@ export default {
           id: 1,
         text: 'doctor',
         day: 'march 223 nomb',
-        reminder: 'true'
-        }
+        reminder: true,
+        },
+        {
+          id: 2,
+        text: 'Dentis',
+        day: 'march 223 nomb',
+        reminder: false,
+        },
+        {
+          id: 3,
+        text: 'Anowar ',
+        day: 'march 223 nomb',
+        reminder: true,
+        },
       ]
     },
 }
