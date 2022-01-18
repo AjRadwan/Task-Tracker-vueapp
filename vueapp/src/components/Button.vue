@@ -12,7 +12,7 @@ export default {
     },
     methods: {
         onClick(){
-            alert("hello")
+           this.$emit('btn-click')
         }
     },
 }
